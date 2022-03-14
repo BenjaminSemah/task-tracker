@@ -12,7 +12,7 @@ const Header = ({ title }) => {
       <h1>{title}</h1>
       <Button 
         color="green" 
-        text="Add"
+        text="Productivity App"
          onClick={onClick}
       />
     </header>
