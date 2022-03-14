@@ -110,3 +110,9 @@ footer {
   margin-top: 30px;
   text-align: center;
 }
+
+.toggle-text {
+  text-align: center;
+  padding-top: 25px;
+  color: green;
+}
