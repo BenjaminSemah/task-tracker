@@ -53,10 +53,6 @@ Feel free to check the [issues page](https://github.com/BenjaminSemah/task-track
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- The Open Movie Database (OMDB) API
-
 ## 📝 License
 
 This project is [MIT](https://github.com/Yerimah/JS-Capstone-Project/blob/dev-branch/MIT.md) licensed.
